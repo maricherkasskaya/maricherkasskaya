@@ -2,7 +2,8 @@
 
 ## I'm a beginner QA Engineer
 
-My CV
+## My CV
+[CV_Maria_Cherkasskaya](https://drive.google.com/file/d/1lEwj6Tm7o7b-sr248kznUQ5bX3AtxOOR/view?usp=sharing)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
