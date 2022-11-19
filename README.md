@@ -16,4 +16,6 @@ My CV
 ![Header](https://img.shields.io/badge/Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=blueviolet)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 
-Follow me
+## Follow me
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=136be1)](https://t.me/maricherkasskaya)
+[![Header](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=habr&logoColor)](https://career.habr.com/maria_cherkasskaya)
