@@ -20,3 +20,5 @@
 ## Follow me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=136be1)](https://t.me/maricherkasskaya)
 [![Header](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=habr&logoColor)](https://career.habr.com/maria_cherkasskaya)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maricherkasskaya&show_icons=true&theme=tokyonight)
