@@ -17,6 +17,15 @@
 ![Header](https://img.shields.io/badge/Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=blueviolet)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 
+## Testing Documentation
+
+- [Checklist](https://github.com/maricherkasskaya/Checklist.git)
+- [Checklist_API](https://github.com/maricherkasskaya/Checklist_API.git)
+- [Test-cases](https://github.com/maricherkasskaya/Test-cases.git)
+- [Bug-Reports](https://github.com/maricherkasskaya/Bug-Reports.git)
+- [SQL_Queries](https://github.com/maricherkasskaya/SQL_Queries.git)
+- [Mindmap](https://github.com/maricherkasskaya/Mindmap.git)
+
 ## Follow me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=136be1)](https://t.me/maricherkasskaya)
 [![Header](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=habr&logoColor)](https://career.habr.com/maria_cherkasskaya)
