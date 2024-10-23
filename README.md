@@ -1,6 +1,6 @@
 ![Header](https://github.com/maricherkasskaya/maricherkasskaya/blob/main/assets/Header.png)
 
-## I'm a beginner QA Engineer
+## Hi! 
 
 ## My CV
 [CV_Maria_Cherkasskaya](https://drive.google.com/file/d/1lEwj6Tm7o7b-sr248kznUQ5bX3AtxOOR/view?usp=sharing)
