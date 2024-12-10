@@ -6,8 +6,8 @@
 В данный момент, изучаю автоматизацию QA на **JS+Playwright**  
 
 ## Contact me
-<img src="icons/telegram.png" title="Telegram" alt="Telegram" width="20" height="20"/> [@maricherkasskaya](https://t.me/maricherkasskaya)
-<img src="icons/yandex.png" title="Yandex" alt="Yandex" width="20" height="20"/> [maricherkasskaya](maricherkasskaya@yandex.ru)
+<img src="assets/telegram.png" title="Telegram" alt="Telegram" width="20" height="20"/> [@maricherkasskaya](https://t.me/maricherkasskaya)
+<img src="assets/yandex.png" title="Yandex" alt="Yandex" width="20" height="20"/> [maricherkasskaya](maricherkasskaya@yandex.ru)
 
 
 
@@ -32,8 +32,7 @@
 Дипломный проект для школы автоматизациии [**QA.GURU**](https://qa.guru/)
 
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=academy_bugs_test&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/maricherkasskaya/academy_bugs_test)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskayal&repo=API_challenges_playwright&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/maricherkasskaya/API_challenges_playwright)
-
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=API_challenges_playwright&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/maricherkasskaya/API_challenges_playwright)
 
 
 ## Stats
