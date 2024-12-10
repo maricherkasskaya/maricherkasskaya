@@ -1,9 +1,15 @@
-![Header](https://github.com/maricherkasskaya/maricherkasskaya/blob/main/assets/Header.png)
+<h1 align="center">Привет, я Мария!</h1>
+<h3 align="center">QA Engineer</h3>
 
-## Hi! 
+## About Me
+Я QA Engineer с 2022 года. Имею опыт тестирования мобильных приложений (Android, iOS, Flutter) и API.
+В данный момент, изучаю автоматизацию QA на **JS+Playwright**  
 
-## My CV
-[CV_Maria_Cherkasskaya](https://drive.google.com/file/d/1lEwj6Tm7o7b-sr248kznUQ5bX3AtxOOR/view?usp=sharing)
+## Contact me
+<img src="icons/telegram.png" title="Telegram" alt="Telegram" width="20" height="20"/> [@maricherkasskaya](https://t.me/maricherkasskaya)
+
+
+
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
