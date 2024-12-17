@@ -29,7 +29,7 @@
 </p>
 
 ## My projects
-Дипломный проект для школы автоматизациии [**QA.GURU**](Test Automation course on JS+Playwright, [read more](https://qa.guru/java))  
+Дипломный проект для школы автоматизациии **QA.GURU**(Test Automation course on JS+Playwright, [read more](https://qa.guru/java))  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=academy_bugs_test&theme=blueberry)](https://github.com/maricherkasskaya/academy_bugs_test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=API_challenges_playwright&theme=blueberry)](https://github.com/maricherkasskaya/API_challenges_playwright)
