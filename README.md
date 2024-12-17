@@ -37,4 +37,4 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maricherkasskaya&theme=blueberry)
-<img style="border-radius: 5px; width: 200px;" src="media/err.jpg" title="err">
+
