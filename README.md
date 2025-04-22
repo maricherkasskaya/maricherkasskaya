@@ -30,14 +30,14 @@ e-mail: maricherkasskaya@yandex.ru
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
 </p>
 
-## My projects
+## My projects **JS+Playwright**
 Дипломный проект для школы автоматизациии **QA.GURU**(Test Automation course on JS+Playwright, [read more](https://qa.guru/playwright_js))  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=academy_bugs_test&theme=blueberry)](https://github.com/maricherkasskaya/academy_bugs_test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=API_challenges_playwright&theme=blueberry)](https://github.com/maricherkasskaya/API_challenges_playwright)
 
 ## My projects
-Примеры работ
+Примеры документации
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Checklist_test&theme=blueberry)](https://github.com/maricherkasskaya/Checklist))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Test-casest&theme=blueberry)](https://github.com/maricherkasskaya/Test-cases)
