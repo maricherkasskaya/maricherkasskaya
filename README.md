@@ -2,12 +2,14 @@
 <h3 align="center">QA Engineer</h3>
 
 ## About Me
-Я QA Engineer с 2022 года. Имею опыт тестирования мобильных приложений (Android, iOS, Flutter) и API.
-В данный момент, изучаю автоматизацию QA на **JS+Playwright**  
+Я — специалист по тестированию с опытом самостоятельного выстраивания процессов и создания документации с нуля. В текущем проекте e-commerce являюсь единственным тестировщиком, отвечаю за мобильное тестирование Android и iOS приложений на платформе Flutter, а также REST API (Postman, Swagger) и бэк (PostgreSQL, ClickHouse, RabbitMQ). Поддерживаю и разрабатываю тестовую документацию, провожу функциональное, интеграционное, регрессионное и UI/UX тестирование, фиксирую и отслеживаю баги, готовлю приложение к выпуску в продакшен.
+
+Недавно прошла курс по автоматизации тестирования на **JS+Playwright**.
+ 
 
 ## Contact me
 <img src="assets/telegram.png" title="Telegram" alt="Telegram" width="20" height="20"/> [@maricherkasskaya](https://t.me/maricherkasskaya)
-<img src="assets/yandex.png" title="Yandex" alt="Yandex" width="20" height="20"/> [maricherkasskaya](maricherkasskaya@yandex.ru)
+e-mail: maricherkasskaya@yandex.ru
 
 
 
@@ -33,6 +35,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=academy_bugs_test&theme=blueberry)](https://github.com/maricherkasskaya/academy_bugs_test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=API_challenges_playwright&theme=blueberry)](https://github.com/maricherkasskaya/API_challenges_playwright)
+
+## My projects
+Примеры работ
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Checklist_test&theme=blueberry)](https://github.com/maricherkasskaya/Checklist))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Test-casest&theme=blueberry)](https://github.com/maricherkasskaya/Test-cases)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Mindmap&theme=blueberry)](https://github.com/maricherkasskaya/Mindmap)
 
 
 ## Stats
