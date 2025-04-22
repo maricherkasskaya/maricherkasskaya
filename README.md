@@ -9,7 +9,7 @@
 
 ## Contact me
 <img src="assets/telegram.png" title="Telegram" alt="Telegram" width="20" height="20"/> [@maricherkasskaya](https://t.me/maricherkasskaya)
-e-mail: maricherkasskaya@yandex.ru
+<img src="assets/email.png" title="E-mail" alt="E-mail" width="20" height="20"/></a> maricherkasskaya@yandex.ru
 
 
 
