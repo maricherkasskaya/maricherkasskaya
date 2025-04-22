@@ -40,8 +40,8 @@
 ## My projects
 Примеры документации
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Checklist_test&theme=blueberry)](https://github.com/maricherkasskaya/Checklist))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Test-casest&theme=blueberry)](https://github.com/maricherkasskaya/Test-cases)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Checklist&theme=blueberry)](https://github.com/maricherkasskaya/Checklist))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Test-cases&theme=blueberry)](https://github.com/maricherkasskaya/Test-cases)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maricherkasskaya&repo=Mindmap&theme=blueberry)](https://github.com/maricherkasskaya/Mindmap)
 
 
